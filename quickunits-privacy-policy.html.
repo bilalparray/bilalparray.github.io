@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Quick Units</title>
+</head>
+<body>
+    <header>
+        <h1>Privacy Policy for Quick Units</h1>
+        <p><strong>Effective Date:</strong> 01-01-2025</p>
+    </header>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>
+            Welcome to <strong>Quick Units</strong>, developed by <strong>Qayham</strong>. This app provides a variety of unit conversion tools, 
+            including time, speed, weight, fuel, frequency, BMI, BMR, age, and a world clock. Your privacy is important to us, and we are committed to protecting it.
+        </p>
+    </section>
+
+    <section>
+        <h2>Data Collection and Usage</h2>
+        <p>
+            We do not collect, store, or process any personal data in any form. The app operates entirely on your device and does not require any user data to function.
+        </p>
+    </section>
+
+    <section>
+        <h2>Ads Display</h2>
+        <p>
+            To support the development and maintenance of <strong>Quick Units</strong>, we display advertisements within the app. These ads may be provided by 
+            third-party ad networks, which may collect certain data as described in their privacy policies. Please review the privacy policies of the respective 
+            ad providers for more information.
+        </p>
+    </section>
+
+    <section>
+        <h2>Third-Party Services</h2>
+        <p>
+            While we do not collect data, the third-party ad networks integrated into the app may collect limited information to serve ads. 
+            This may include device identifiers, IP address, and usage statistics. We recommend reviewing the privacy policies of these third parties for further details.
+        </p>
+    </section>
+
+    <section>
+        <h2>Your Consent</h2>
+        <p>
+            By using <strong>Quick Units</strong>, you agree to this privacy policy and understand that ads may be displayed within the app.
+        </p>
+    </section>
+
+    <section>
+        <h2>Changes to This Privacy Policy</h2>
+        <p>
+            We may update this privacy policy from time to time. Any changes will be reflected here with the updated effective date.
+        </p>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>
+            If you have any questions or concerns about this privacy policy or the app, please contact us at:<br>
+            <strong>Qayham</strong>
+        </p>
+    </section>
+</body>
+</html>
